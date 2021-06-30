@@ -1,0 +1,2 @@
+text = ["asd", "banana", "malina"]
+
